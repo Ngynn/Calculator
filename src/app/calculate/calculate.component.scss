@@ -12,12 +12,19 @@
   color: #665d1e;
 }
 
+#temp {
+  font-size: large;
+  display: flex;
+  justify-content: left;
+  color: #665d1e;
+}
+
 .leafleft {
   position: absolute;
   width: 80px;
   height: 80px;
   background: #3f6b1b;
-  margin-left: 50px;
+  margin-left: 60px;
   z-index: -10;
   margin-top: -90px;
   border-radius: 90% 0 90% 0;
@@ -28,7 +35,7 @@
   width: 70px;
   height: 70px;
   background: #8a9847;
-  margin-left: 93px;
+  margin-left: 98px;
   z-index: -11;
   margin-top: -100px;
   border-radius: 90% 0 90% 0;
